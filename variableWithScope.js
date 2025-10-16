@@ -18,3 +18,5 @@ function test() {
 test();
 console.log(x);
 console.log(typeof y);
+
+
